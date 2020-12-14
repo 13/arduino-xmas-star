@@ -40,8 +40,6 @@ A christmas star with 4 flickering LEDs and a WS2812B multicolor LED.
 
 ```sh
 git clone https://github.com/13/arduino-xmas-star.git
-
-npm install
 ```
 
 ## Usage
