@@ -5,7 +5,7 @@
 #define FASTLED_ALLOW_INTERRUPTS 0                            // Used for ESP8266.
 
 // Fixed definitions cannot change on the fly.
-#define LED_DT 0                                             // Serial data pin
+#define LED_DT 4                                             // Serial data pin
 #define COLOR_ORDER GRB                                       // It's GRB for WS2812B and GBR for APA102
 #define LED_TYPE WS2812                                       // What kind of strip are you using (APA102, WS2801 or WS2812B)?
 #define NUM_LEDS 1                                           // Number of LED's
